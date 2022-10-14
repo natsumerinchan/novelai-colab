@@ -126,11 +126,12 @@ save_image_info(image, path = './outputs/') # 保存图片到指定位置
 
 # End
 
-![2022年10月10日1.jpg](https://ai-studio-static-online.cdn.bcebos.com/5f439c18f5764a74a1bd5702de893a89252ff85130844d83a5e92da1d180f10d)
-作者留下的讨论群二维码
+![285925041 点击查看二维码](https://ai-studio-static-online.cdn.bcebos.com/5f439c18f5764a74a1bd5702de893a89252ff85130844d83a5e92da1d180f10d)
+
+作者的讨论群
 
 **如果你认为这个Colab版本对你有帮助的话,[欢迎点亮star!](https://github.com/Wangs-offical/novelai-colab/stargazers)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE1NzI3NDFdfQ==
+eyJoaXN0b3J5IjpbMTY2Njc1NTAzNCwtMTc5MTU3Mjc0MV19
 -->
